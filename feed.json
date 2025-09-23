@@ -5,7 +5,7 @@
     "home_page_url": "https://mimopo.com",
     "feed_url": "https://mimopo.com/feed.json",
     "user_comment": "",
-    "icon": "https://mimopo.com/media/website/logo.webp",
+    "icon": "https://mimopo.com/media/website/logo-2.webp",
     "author": {
         "name": "Miguel Montes"
     },
@@ -13,18 +13,18 @@
         {
             "id": "https://mimopo.com/lorem-ipsum.html",
             "url": "https://mimopo.com/lorem-ipsum.html",
-            "title": "Lorem Ipsum",
+            "title": "Lorem ipsum",
             "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempus iaculis luctus. Donec maximus nulla eros, quis mollis elit pellentesque vitae. Aliquam et orci varius, finibus nisi nec, tristique urna. Cras pretium ullamcorper pulvinar. Aliquam vitae orci sed odio molestie lacinia. Vivamus blandit lobortis efficitur.",
-            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempus iaculis luctus. Donec maximus nulla eros, quis mollis elit pellentesque vitae. Aliquam et orci varius, finibus nisi nec, tristique urna. Cras pretium ullamcorper pulvinar. Aliquam vitae orci sed odio molestie lacinia. Vivamus blandit lobortis efficitur. Aliquam viverra enim ornare dui mattis vehicula. Praesent egestas egestas magna a suscipit. Suspendisse vitae accumsan massa. Nunc volutpat euismod odio, vitae gravida sem pretium ac.</p><p>Aliquam nec dapibus tellus. Pellentesque in maximus magna, sit amet posuere ipsum. Suspendisse sed egestas mauris. Pellentesque vel augue mi. Nulla rhoncus lorem ipsum, ut gravida mauris consectetur at. Integer pulvinar facilisis libero, id lobortis enim pulvinar nec. Nunc malesuada nisi et nibh sodales faucibus. Fusce odio elit, pretium non suscipit sed, consectetur ut urna.</p><p>Pellentesque auctor, ligula quis tincidunt feugiat, urna tortor elementum tortor, id scelerisque est purus a magna. Sed malesuada vel felis eget interdum. Pellentesque at risus accumsan, sagittis dolor et, mattis nisi. Nulla auctor dictum ipsum ac blandit. Praesent sagittis elit vel ipsum faucibus, gravida rutrum diam cursus. Mauris et orci non justo pharetra semper ut non nunc. Nam placerat erat eget fermentum laoreet. Suspendisse tristique suscipit dapibus.</p><p>Phasellus fringilla vitae dolor et elementum. Nullam a risus id dolor porta facilisis eu ut arcu. Suspendisse convallis quis neque non condimentum. Aliquam ut neque ultricies, sodales ligula eu, tempor metus. Aliquam erat volutpat. Vivamus ut quam finibus est luctus consequat imperdiet ac dolor. Pellentesque sagittis maximus libero at euismod. Pellentesque rutrum nisl ut ex hendrerit, a porta tortor congue. Duis aliquam nibh in tincidunt molestie. Donec vulputate eleifend viverra. Quisque vestibulum odio vitae enim elementum viverra. Aliquam in dolor quis metus lobortis accumsan. Curabitur tristique sapien nec diam tempus, eget faucibus quam eleifend. Vestibulum eget dui at libero congue aliquam. Praesent imperdiet, libero sit amet convallis ultrices, nisl tortor consequat tellus, a congue risus erat ac nunc. Aliquam a lacus non lorem lobortis molestie ut et nisi.</p>",
-            "image": "https://mimopo.com/media/posts/1/Gemini_Generated_Image_og63zkog63zkog63.png",
+            "content_html": "\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempus iaculis luctus. Donec maximus nulla eros, quis mollis elit pellentesque vitae. Aliquam et orci varius, finibus nisi nec, tristique urna. Cras pretium ullamcorper pulvinar. Aliquam vitae orci sed odio molestie lacinia. Vivamus blandit lobortis efficitur. Aliquam viverra enim ornare dui mattis vehicula. Praesent egestas egestas magna a suscipit. Suspendisse vitae accumsan massa. Nunc volutpat euismod odio, vitae gravida sem pretium ac.<br><br>Aliquam nec dapibus tellus. Pellentesque in maximus magna, sit amet posuere ipsum. Suspendisse sed egestas mauris. Pellentesque vel augue mi. Nulla rhoncus lorem ipsum, ut gravida mauris consectetur at. Integer pulvinar facilisis libero, id lobortis enim pulvinar nec. Nunc malesuada nisi et nibh sodales faucibus. Fusce odio elit, pretium non suscipit sed, consectetur ut urna.<br><br>Pellentesque auctor, ligula quis tincidunt feugiat, urna tortor elementum tortor, id scelerisque est purus a magna. Sed malesuada vel felis eget interdum. Pellentesque at risus accumsan, sagittis dolor et, mattis nisi. Nulla auctor dictum ipsum ac blandit. Praesent sagittis elit vel ipsum faucibus, gravida rutrum diam cursus. Mauris et orci non justo pharetra semper ut non nunc. Nam placerat erat eget fermentum laoreet. Suspendisse tristique suscipit dapibus.<br><br>Phasellus fringilla vitae dolor et elementum. Nullam a risus id dolor porta facilisis eu ut arcu. Suspendisse convallis quis neque non condimentum. Aliquam ut neque ultricies, sodales ligula eu, tempor metus. Aliquam erat volutpat. Vivamus ut quam finibus est luctus consequat imperdiet ac dolor. Pellentesque sagittis maximus libero at euismod. Pellentesque rutrum nisl ut ex hendrerit, a porta tortor congue. Duis aliquam nibh in tincidunt molestie. Donec vulputate eleifend viverra. Quisque vestibulum odio vitae enim elementum viverra. Aliquam in dolor quis metus lobortis accumsan. Curabitur tristique sapien nec diam tempus, eget faucibus quam eleifend. Vestibulum eget dui at libero congue aliquam. Praesent imperdiet, libero sit amet convallis ultrices, nisl tortor consequat tellus, a congue risus erat ac nunc. Aliquam a lacus non lorem lobortis molestie ut et nisi.\n  </p>\n<pre class=\"line-numbers  language-html\"><code>&lt;!DOCTYPE html&gt;\n&lt;html lang=\"en\"&gt;\n&lt;head&gt;\n    &lt;meta charset=\"UTF-8\"&gt;\n    &lt;meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"&gt;\n    &lt;title&gt;Document&lt;/title&gt;\n&lt;/head&gt;\n&lt;body&gt;\n    &lt;h1&gt;Hello, World!&lt;/h1&gt;\n&lt;/body&gt;\n&lt;/html&gt;</code></pre>",
+            "image": "https://mimopo.com/media/posts/4/Gemini_Generated_Image_og63zkog63zkog63.png",
             "author": {
                 "name": "Miguel Montes"
             },
             "tags": [
                    "test"
             ],
-            "date_published": "2025-09-22T20:25:41+02:00",
-            "date_modified": "2025-09-22T20:26:09+02:00"
+            "date_published": "2025-09-23T06:57:16+02:00",
+            "date_modified": "2025-09-23T07:01:02+02:00"
         }
     ]
 }
