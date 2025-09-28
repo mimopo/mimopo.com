@@ -3,7 +3,7 @@
     <title>mimopo.com</title>
     <link href="https://mimopo.com/feed.xml" rel="self" />
     <link href="https://mimopo.com" />
-    <updated>2025-09-26T22:30:16+02:00</updated>
+    <updated>2025-09-28T11:38:32+02:00</updated>
     <author>
         <name>Miguel Montes</name>
     </author>
@@ -16,18 +16,20 @@
         </author>
         <link href="https://mimopo.com/web-components.html"/>
         <id>https://mimopo.com/web-components.html</id>
-        <media:content url="https://mimopo.com/media/posts/5/pexels-polesietoys-4491711-2.jpg" medium="image" />
+        <media:content url="https://mimopo.com/media/posts/5/responsive/pexels-polesietoys-4491711-2-md.webp" medium="image" />
+            <category term="web components"/>
+            <category term="frontend"/>
 
         <updated>2025-09-26T13:10:04+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mimopo.com/media/posts/5/pexels-polesietoys-4491711-2.jpg" alt="" />
+                        <img  src="https://mimopo.com/media/posts/5/responsive/pexels-polesietoys-4491711-2-md.webp" alt="" />
                     If you've ever dealt with big web apps, you know how painful it is to maintain massive, nested UI code. Web Components are here to save the day! They're a set of standards that let you create custom, reusable, self-contained components that work in any&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mimopo.com/media/posts/5/pexels-polesietoys-4491711-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img  src="https://mimopo.com/media/posts/5/responsive/pexels-polesietoys-4491711-2-md.webp" class="type:primaryImage" alt="" /></p>
                 
   <p>
     If you've ever dealt with big web apps, you know how painful it is to maintain massive, nested UI code. Web Components are here to save the day! They're a set of standards that let you create custom, reusable, self-contained components that work in any modern browser, whether you're rocking vanilla JavaScript or a trendy new framework.
@@ -98,7 +100,7 @@
 </code></pre>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://mimopo.com/media/posts/5/2025-09-26_19-44.png" height="124" width="266" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mimopo.com/media/posts/5/responsive/2025-09-26_19-44-xs.webp 640w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_19-44-sm.webp 768w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_19-44-md.webp 1024w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_19-44-lg.webp 1366w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_19-44-xl.webp 1600w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_19-44-2xl.webp 1920w">
+      <img  loading="lazy" src="https://mimopo.com/media/posts/5/responsive/2025-09-26_19-44-md.webp" height="124" width="266" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mimopo.com/media/posts/5/responsive/2025-09-26_19-44-xs.webp 640w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_19-44-sm.webp 768w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_19-44-md.webp 806w">
       <figcaption>The component has a border and its content is using italic font-style</figcaption>
     </figure>
 
@@ -135,7 +137,7 @@
 &lt;/script&gt;</code></pre>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://mimopo.com/media/posts/5/2025-09-26_19-51-2.png" height="123" width="268" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mimopo.com/media/posts/5/responsive/2025-09-26_19-51-2-xs.webp 640w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_19-51-2-sm.webp 768w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_19-51-2-md.webp 1024w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_19-51-2-lg.webp 1366w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_19-51-2-xl.webp 1600w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_19-51-2-2xl.webp 1920w">
+      <img  loading="lazy" src="https://mimopo.com/media/posts/5/responsive/2025-09-26_19-51-2-md.webp" height="123" width="268" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mimopo.com/media/posts/5/responsive/2025-09-26_19-51-2-xs.webp 640w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_19-51-2-sm.webp 768w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_19-51-2-md.webp 806w">
       <figcaption>The component still has a border but now its content is not using italic font-style</figcaption>
     </figure>
 
@@ -181,7 +183,7 @@
 &lt;/script&gt;</code></pre>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://mimopo.com/media/posts/5/2025-09-26_20-10.png" height="120" width="269" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mimopo.com/media/posts/5/responsive/2025-09-26_20-10-xs.webp 640w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_20-10-sm.webp 768w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_20-10-md.webp 1024w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_20-10-lg.webp 1366w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_20-10-xl.webp 1600w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_20-10-2xl.webp 1920w">
+      <img  loading="lazy" src="https://mimopo.com/media/posts/5/responsive/2025-09-26_20-10-md.webp" height="120" width="269" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mimopo.com/media/posts/5/responsive/2025-09-26_20-10-xs.webp 640w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_20-10-sm.webp 768w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_20-10-md.webp 806w">
       <figcaption>The message is placed outside because the component internals are now inaccessible</figcaption>
     </figure>
 
@@ -219,7 +221,7 @@
 &lt;/script&gt;</code></pre>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://mimopo.com/media/posts/5/2025-09-26_20-36.png" height="93" width="269" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mimopo.com/media/posts/5/responsive/2025-09-26_20-36-xs.webp 640w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_20-36-sm.webp 768w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_20-36-md.webp 1024w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_20-36-lg.webp 1366w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_20-36-xl.webp 1600w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_20-36-2xl.webp 1920w">
+      <img  loading="lazy" src="https://mimopo.com/media/posts/5/responsive/2025-09-26_20-36-md.webp" height="93" width="269" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mimopo.com/media/posts/5/responsive/2025-09-26_20-36-xs.webp 640w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_20-36-sm.webp 768w ,https://mimopo.com/media/posts/5/responsive/2025-09-26_20-36-md.webp 806w">
       <figcaption>By adding a reset, the component is not inheriting styles from outside anymore</figcaption>
     </figure>
 
@@ -228,7 +230,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://mimopo.com/media/posts/5/perfection-meme.jpg" height="273" width="434" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mimopo.com/media/posts/5/responsive/perfection-meme-xs.webp 640w ,https://mimopo.com/media/posts/5/responsive/perfection-meme-sm.webp 768w ,https://mimopo.com/media/posts/5/responsive/perfection-meme-md.webp 1024w ,https://mimopo.com/media/posts/5/responsive/perfection-meme-lg.webp 1366w ,https://mimopo.com/media/posts/5/responsive/perfection-meme-xl.webp 1600w ,https://mimopo.com/media/posts/5/responsive/perfection-meme-2xl.webp 1920w">
+      <img  loading="lazy" src="https://mimopo.com/media/posts/5/responsive/perfection-meme-md.webp" height="273" width="434" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mimopo.com/media/posts/5/responsive/perfection-meme-xs.webp 640w ,https://mimopo.com/media/posts/5/responsive/perfection-meme-sm.webp 768w ,https://mimopo.com/media/posts/5/responsive/perfection-meme-md.webp 806w">
       
     </figure>
 

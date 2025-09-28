@@ -1,5 +1,0 @@
-# Ignore all files under media/posts
-media/posts/*/*
-# Allow responsive directories and their contents
-!media/posts/*/responsive/
-!media/posts/*/responsive/*
