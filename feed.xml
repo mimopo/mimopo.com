@@ -21,7 +21,7 @@
             <category term="frontend"/>
 
         <updated>2025-09-26T13:10:04+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img  src="https://mimopo.com/media/posts/5/responsive/pexels-polesietoys-4491711-2-md.webp" alt="" />
                     If you've ever dealt with big web apps, you know how painful it is to maintain massive, nested UI code. Web Components are here to save the day! They're a set of standards that let you create custom, reusable, self-contained components that work in any&hellip;
